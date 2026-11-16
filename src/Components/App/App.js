@@ -2,7 +2,7 @@ import { useEffect } from "react";
 
 function App() {
   useEffect(() => {
-    window.location.replace("https://www.sonmoe.dev/");
+    window.location.replace("https://moeabdulla.com/");
   }, []);
 
   // Return an empty div to prevent any content from rendering
