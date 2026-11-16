@@ -40,7 +40,7 @@ export function Nav() {
           <p className=" text-blue-500 hover:text-blue-600 hover:scale-110 ease-in duration-200 cursor-pointer w-10">
             <a
               title="GitHub"
-              href="https://github.com/moe1011"
+              href="https://github.com/moeabdulla"
               rel="noreferrer"
               target="_blank"
               className="text-dark"
@@ -78,7 +78,7 @@ export function Nav() {
           <p className="text-blue-500 hover:text-blue-600 hover:scale-110 ease-in duration-200 cursor-pointer w-11">
             <a
               title="Contact"
-              href="mailto:moe.a1011@gmail.com"
+              href="mailto:moe.s.abdulla@gmail.com"
               className="text-success"
             >
               <svg

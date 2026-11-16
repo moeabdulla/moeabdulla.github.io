@@ -38,8 +38,8 @@ const projectArray = [
     description:
       "Magical 8 ball which will react to touch inputs and provide the user with a prediction.",
     stack: ["React", "TailwindCSS", "Rive"],
-    github: "https://github.com/moe1011/8Ball",
-    website: "https://moe1011.github.io/8Ball",
+    github: "https://github.com/moeabdulla/8Ball",
+    website: "https://moeabdulla.github.io/8Ball",
     alttext: "",
   },
   {
@@ -49,7 +49,7 @@ const projectArray = [
     description:
       "A calculator app made for simple calculations, with keyboard shortcuts and an ability to save all your calculations to a text file.",
     stack: ["React", "Electron", "TailwindCSS", "MathJS"],
-    github: "https://github.com/moe1011/CalculatorApp",
+    github: "https://github.com/moeabdulla/CalculatorApp",
     website: "",
     alttext: "",
   },
@@ -60,7 +60,7 @@ const projectArray = [
     description:
       "Simple to-do list created with react, with to-do tasks that persist in local storage.",
     stack: ["React"],
-    github: "https://github.com/moe1011/wantodo",
+    github: "https://github.com/moeabdulla/wantodo",
     website: "https://wanto-do.netlify.app",
     alttext: "",
   },
